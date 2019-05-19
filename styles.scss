@@ -1,0 +1,19 @@
+body {
+
+  margin: 0;
+  padding: 0;
+
+  .tree {
+
+    span:hover {
+
+      font-weight: bold;
+      cursor: pointer;
+
+    }
+
+  }
+  .display-none {
+    display: none;
+  }
+}
